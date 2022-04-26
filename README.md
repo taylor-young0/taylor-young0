@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+![Some of my projects](https://raw.githubusercontent.com/taylor-young0/taylor-young0/main/LinkedIn%20background%20photo.001.jpeg)
 
 <!--
 **taylor-young0/taylor-young0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
